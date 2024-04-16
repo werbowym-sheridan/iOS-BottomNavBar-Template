@@ -11,7 +11,7 @@ import SwiftUI
 struct BottomNavBar_TemplateApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }
     }
 }
